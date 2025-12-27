@@ -1,0 +1,65 @@
+{
+  "image": "jarak_2_mp4-0033_jpg.rf.6efd7eb2ee4dd4c89e63343cd250eafa.jpg",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.873,
+      "bbox": {
+        "x1": 367,
+        "y1": 0,
+        "x2": 402,
+        "y2": 73
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.774,
+      "bbox": {
+        "x1": 106,
+        "y1": 557,
+        "x2": 168,
+        "y2": 682
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.757,
+      "bbox": {
+        "x1": 63,
+        "y1": 409,
+        "x2": 119,
+        "y2": 551
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.739,
+      "bbox": {
+        "x1": 430,
+        "y1": 243,
+        "x2": 491,
+        "y2": 407
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.726,
+      "bbox": {
+        "x1": 138,
+        "y1": 320,
+        "x2": 192,
+        "y2": 436
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.679,
+      "bbox": {
+        "x1": 477,
+        "y1": 318,
+        "x2": 531,
+        "y2": 505
+      }
+    }
+  ]
+}
