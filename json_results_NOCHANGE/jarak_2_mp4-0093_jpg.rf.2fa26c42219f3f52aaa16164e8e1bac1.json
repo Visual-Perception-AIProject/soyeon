@@ -1,0 +1,105 @@
+{
+  "image": "jarak_2_mp4-0093_jpg.rf.2fa26c42219f3f52aaa16164e8e1bac1.jpg",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.787,
+      "bbox": {
+        "x1": 368,
+        "y1": 1,
+        "x2": 402,
+        "y2": 72
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.783,
+      "bbox": {
+        "x1": 426,
+        "y1": 252,
+        "x2": 481,
+        "y2": 403
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.775,
+      "bbox": {
+        "x1": 142,
+        "y1": 316,
+        "x2": 204,
+        "y2": 450
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.622,
+      "bbox": {
+        "x1": 474,
+        "y1": 365,
+        "x2": 532,
+        "y2": 491
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.599,
+      "bbox": {
+        "x1": 220,
+        "y1": 682,
+        "x2": 283,
+        "y2": 816
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.561,
+      "bbox": {
+        "x1": 99,
+        "y1": 550,
+        "x2": 167,
+        "y2": 683
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.54,
+      "bbox": {
+        "x1": 293,
+        "y1": 64,
+        "x2": 318,
+        "y2": 114
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.539,
+      "bbox": {
+        "x1": 67,
+        "y1": 398,
+        "x2": 120,
+        "y2": 537
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.348,
+      "bbox": {
+        "x1": 262,
+        "y1": 100,
+        "x2": 289,
+        "y2": 164
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.345,
+      "bbox": {
+        "x1": 392,
+        "y1": 512,
+        "x2": 443,
+        "y2": 655
+      }
+    }
+  ]
+}

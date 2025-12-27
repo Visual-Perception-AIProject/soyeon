@@ -65,6 +65,16 @@
       "class": "person",
       "confidence": 0.61,
       "bbox": {
+        "x1": 333,
+        "y1": 720,
+        "x2": 383,
+        "y2": 815
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.61,
+      "bbox": {
         "x1": 294,
         "y1": 66,
         "x2": 315,
