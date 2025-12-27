@@ -1,0 +1,125 @@
+{
+  "image": "videos_1263_jpg.rf.0f67d8afa78f4c4820f719c12211dafc.jpg",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.952,
+      "bbox": {
+        "x1": 493,
+        "y1": 147,
+        "x2": 544,
+        "y2": 287
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.951,
+      "bbox": {
+        "x1": 241,
+        "y1": 106,
+        "x2": 277,
+        "y2": 198
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.907,
+      "bbox": {
+        "x1": 195,
+        "y1": 205,
+        "x2": 239,
+        "y2": 276
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.895,
+      "bbox": {
+        "x1": 2,
+        "y1": 411,
+        "x2": 68,
+        "y2": 488
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.874,
+      "bbox": {
+        "x1": 611,
+        "y1": 158,
+        "x2": 657,
+        "y2": 224
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.762,
+      "bbox": {
+        "x1": 415,
+        "y1": 91,
+        "x2": 455,
+        "y2": 173
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.71,
+      "bbox": {
+        "x1": 176,
+        "y1": 150,
+        "x2": 207,
+        "y2": 220
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.697,
+      "bbox": {
+        "x1": 32,
+        "y1": 231,
+        "x2": 64,
+        "y2": 299
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.696,
+      "bbox": {
+        "x1": 462,
+        "y1": 74,
+        "x2": 490,
+        "y2": 115
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.658,
+      "bbox": {
+        "x1": 552,
+        "y1": 80,
+        "x2": 575,
+        "y2": 112
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.652,
+      "bbox": {
+        "x1": 303,
+        "y1": 90,
+        "x2": 319,
+        "y2": 137
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.638,
+      "bbox": {
+        "x1": 62,
+        "y1": 206,
+        "x2": 115,
+        "y2": 330
+      }
+    }
+  ]
+}

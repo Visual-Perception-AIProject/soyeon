@@ -1,0 +1,145 @@
+{
+  "image": "videos_0438_jpg.rf.8359b81e2f96b4ffa22909ac127d7edd.jpg",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.94,
+      "bbox": {
+        "x1": 191,
+        "y1": 204,
+        "x2": 239,
+        "y2": 295
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.932,
+      "bbox": {
+        "x1": 558,
+        "y1": 102,
+        "x2": 598,
+        "y2": 161
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.914,
+      "bbox": {
+        "x1": 423,
+        "y1": 125,
+        "x2": 458,
+        "y2": 187
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.906,
+      "bbox": {
+        "x1": 393,
+        "y1": 159,
+        "x2": 438,
+        "y2": 258
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.889,
+      "bbox": {
+        "x1": 421,
+        "y1": 75,
+        "x2": 453,
+        "y2": 123
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.856,
+      "bbox": {
+        "x1": 583,
+        "y1": 141,
+        "x2": 626,
+        "y2": 242
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.851,
+      "bbox": {
+        "x1": 547,
+        "y1": 78,
+        "x2": 573,
+        "y2": 113
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.845,
+      "bbox": {
+        "x1": 243,
+        "y1": 109,
+        "x2": 275,
+        "y2": 194
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.837,
+      "bbox": {
+        "x1": 172,
+        "y1": 145,
+        "x2": 209,
+        "y2": 216
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.827,
+      "bbox": {
+        "x1": 492,
+        "y1": 149,
+        "x2": 543,
+        "y2": 287
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.677,
+      "bbox": {
+        "x1": 63,
+        "y1": 202,
+        "x2": 103,
+        "y2": 322
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.676,
+      "bbox": {
+        "x1": 470,
+        "y1": 79,
+        "x2": 508,
+        "y2": 162
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.631,
+      "bbox": {
+        "x1": 5,
+        "y1": 416,
+        "x2": 73,
+        "y2": 486
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.519,
+      "bbox": {
+        "x1": 280,
+        "y1": 177,
+        "x2": 339,
+        "y2": 248
+      }
+    }
+  ]
+}

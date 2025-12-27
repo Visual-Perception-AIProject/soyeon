@@ -53,7 +53,7 @@ for img_name in image_files:
     print(json.dumps(output, indent=2, ensure_ascii=False))
 
     # 시각화 
-    annotated = result.plot()
+    annotated = result.plot(line_width=2)
     cv2.imshow("YOLOv8 Detection", annotated)
 
     if cv2.waitKey(delay) == ord('q'):

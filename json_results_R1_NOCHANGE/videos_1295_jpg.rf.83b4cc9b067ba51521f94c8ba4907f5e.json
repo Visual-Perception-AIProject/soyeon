@@ -1,0 +1,155 @@
+{
+  "image": "videos_1295_jpg.rf.83b4cc9b067ba51521f94c8ba4907f5e.jpg",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.976,
+      "bbox": {
+        "x1": 241,
+        "y1": 113,
+        "x2": 273,
+        "y2": 197
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.936,
+      "bbox": {
+        "x1": 495,
+        "y1": 233,
+        "x2": 554,
+        "y2": 461
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.929,
+      "bbox": {
+        "x1": 8,
+        "y1": 410,
+        "x2": 74,
+        "y2": 500
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.893,
+      "bbox": {
+        "x1": 492,
+        "y1": 146,
+        "x2": 545,
+        "y2": 263
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.884,
+      "bbox": {
+        "x1": 193,
+        "y1": 207,
+        "x2": 237,
+        "y2": 277
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.808,
+      "bbox": {
+        "x1": 611,
+        "y1": 160,
+        "x2": 657,
+        "y2": 223
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.773,
+      "bbox": {
+        "x1": 415,
+        "y1": 89,
+        "x2": 453,
+        "y2": 173
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.765,
+      "bbox": {
+        "x1": 178,
+        "y1": 155,
+        "x2": 208,
+        "y2": 221
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.746,
+      "bbox": {
+        "x1": 552,
+        "y1": 78,
+        "x2": 574,
+        "y2": 111
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.722,
+      "bbox": {
+        "x1": 564,
+        "y1": 101,
+        "x2": 611,
+        "y2": 165
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.663,
+      "bbox": {
+        "x1": 28,
+        "y1": 231,
+        "x2": 64,
+        "y2": 310
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.623,
+      "bbox": {
+        "x1": 463,
+        "y1": 76,
+        "x2": 497,
+        "y2": 167
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.598,
+      "bbox": {
+        "x1": 303,
+        "y1": 90,
+        "x2": 320,
+        "y2": 138
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.565,
+      "bbox": {
+        "x1": 62,
+        "y1": 203,
+        "x2": 117,
+        "y2": 330
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.526,
+      "bbox": {
+        "x1": 809,
+        "y1": 376,
+        "x2": 879,
+        "y2": 477
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+path: C:/Users/user/Desktop/2025WINTER/dataset_R1
+
+train: images/train
+val: images/val
+
+nc: 1
+names: ['person']
+

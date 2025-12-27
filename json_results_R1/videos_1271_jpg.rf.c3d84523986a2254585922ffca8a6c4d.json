@@ -1,0 +1,135 @@
+{
+  "image": "videos_1271_jpg.rf.c3d84523986a2254585922ffca8a6c4d.jpg",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.962,
+      "bbox": {
+        "x1": 241,
+        "y1": 113,
+        "x2": 273,
+        "y2": 198
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.944,
+      "bbox": {
+        "x1": 493,
+        "y1": 147,
+        "x2": 545,
+        "y2": 288
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.914,
+      "bbox": {
+        "x1": 4,
+        "y1": 410,
+        "x2": 69,
+        "y2": 480
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.905,
+      "bbox": {
+        "x1": 611,
+        "y1": 156,
+        "x2": 657,
+        "y2": 223
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.898,
+      "bbox": {
+        "x1": 566,
+        "y1": 101,
+        "x2": 610,
+        "y2": 176
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.809,
+      "bbox": {
+        "x1": 169,
+        "y1": 143,
+        "x2": 203,
+        "y2": 202
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.802,
+      "bbox": {
+        "x1": 203,
+        "y1": 204,
+        "x2": 238,
+        "y2": 274
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.72,
+      "bbox": {
+        "x1": 415,
+        "y1": 91,
+        "x2": 455,
+        "y2": 173
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.663,
+      "bbox": {
+        "x1": 552,
+        "y1": 78,
+        "x2": 573,
+        "y2": 112
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.649,
+      "bbox": {
+        "x1": 62,
+        "y1": 203,
+        "x2": 120,
+        "y2": 345
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.62,
+      "bbox": {
+        "x1": 303,
+        "y1": 93,
+        "x2": 320,
+        "y2": 139
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.566,
+      "bbox": {
+        "x1": 462,
+        "y1": 75,
+        "x2": 490,
+        "y2": 116
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.477,
+      "bbox": {
+        "x1": 28,
+        "y1": 233,
+        "x2": 63,
+        "y2": 290
+      }
+    }
+  ]
+}
