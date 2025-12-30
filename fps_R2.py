@@ -3,8 +3,8 @@ import cv2
 import os
 import time
 
-#model = YOLO("runs/detect/train/weights/best.pt")
-model=YOLO("yolov8l.pt")  # 기본 사전학습 모델 로드
+model = YOLO("runs/detect/train/weights/best.pt")
+#model=YOLO("yolov8l.pt")  # 기본 사전학습 모델 로드
 # 🔹 2. 이미지 폴더
 image_dir = "R2_datta"
 image_files = sorted(os.listdir(image_dir))
