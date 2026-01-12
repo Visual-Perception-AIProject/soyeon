@@ -1,0 +1,11 @@
+R2
+-fine_tuning-> Average FPS: 29.63  
+
+-yolov8l -> Average FPS: 32.07  
+
+
+
+R1
+-fine_tuning -> Average FPS: 20.15 
+
+-yolov8l ->Average FPS: 36.16 

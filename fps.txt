@@ -1,5 +1,5 @@
 R2
--fine_tuning-> Average FPS: 29.63  ,  아래 측정 시에는 30.55
+-fine_tuning-> Average FPS: 29.63  
 jarak_2_mp4-0000_jpg.rf.e92c079f5d1c71172b30a5ed0c026501.jpg | inference time: 9.2550s | FPS: 0.11
 jarak_2_mp4-0002_jpg.rf.e4032e11e609c5f3035d1b02f2df2de9.jpg | inference time: 0.0395s | FPS: 25.34
 jarak_2_mp4-0003_jpg.rf.9d47b056fe651dd3e88b7739b4817d75.jpg | inference time: 0.0462s | FPS: 21.66
